@@ -1,6 +1,6 @@
-# Who am I?
+# About me
 ---
 I like to make fun stuff with computers
 ---
 ## Tech stack:
-![MongoDB](./img/mongo.png) ![Express.js](./img/express.png) ![React.js](./img/react.png) ![Node](./img/nodejs.png)
+![MongoDB](./img/mongodb.png) ![Express.js](./img/expressjs.png) ![React.js](./img/reactjs.png) ![Node](./img/node.png)
