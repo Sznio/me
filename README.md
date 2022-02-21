@@ -3,4 +3,4 @@
 I like to make fun stuff with computers
 ---
 ## Tech stack:
-Node React MongoDB
+![MongoDB](./img/mongo.png) ![Express.js](./img/express.png) ![React.js](./img/react.png) ![Node](./img/node.png)
