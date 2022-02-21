@@ -1,6 +1,7 @@
 # About me
 ---
 I like to make fun stuff with computers
+- I like Javascript
 - Godot enthusiast
 ---
 ## Tech stack:
